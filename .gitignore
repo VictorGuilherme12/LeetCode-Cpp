@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.user
+*.VC.db
+*.opendb
+
+# Build
+Debug/
+Release/
+x64/
+x86/
+
+# Outros temporários
+*.log

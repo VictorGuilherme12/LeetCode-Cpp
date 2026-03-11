@@ -8,5 +8,7 @@ void RunRomanToInteger();
 
 int main()
 {
-	RunTwoSum();
+	RunRomanToInteger();
+
+	return 0;
 }

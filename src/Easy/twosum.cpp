@@ -3,11 +3,7 @@
 
 using namespace std;
 
-std::vector<int> nums = { 2,3,11,20 };
-
-int target = 31;
-
-vector<int> twosum()
+vector<int> twoSum(vector<int>& nums, int target)
 {
 	for (int i = 0; i < nums.size(); i++)
 	{
@@ -18,18 +14,18 @@ vector<int> twosum()
 				return { i, j };
 			}
 		}
-			
 	}
 
 	return {};
-		
 }
 
-int main() {
+void RunTwoSum() {
+	
+	vector<int> nums = { 2,3,11,20 };
+	int target = 31;
 
-	vector<int> result = twosum();
 
-	cout << result[0] << " " << result[1];
+	vector<int> result = twoSum(nums, target);
 
-	return 0;
+	cout << result[0] << " " << result[1] << endl;
 }

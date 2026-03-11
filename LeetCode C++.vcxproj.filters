@@ -5,9 +5,18 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="Source Files\Easy">
+      <UniqueIdentifier>{c41ddc22-2b4c-4726-aec5-90fe79d1640b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="twosum.cpp">
+    <ClCompile Include="src\Easy\romantointeger.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Easy\twosum.cpp">
+      <Filter>Source Files\Easy</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

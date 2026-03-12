@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\Easy\palindromenumbercpp.cpp" />
     <ClCompile Include="src\Easy\romantointeger.cpp" />
     <ClCompile Include="src\Easy\twosum.cpp" />
     <ClCompile Include="src\main.cpp" />

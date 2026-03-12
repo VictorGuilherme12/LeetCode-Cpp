@@ -5,10 +5,11 @@ using namespace std;
 
 void RunTwoSum();
 void RunRomanToInteger();
+void RunPalindrome();
 
 int main()
 {
-	RunRomanToInteger();
+	RunPalindrome();
 
 	return 0;
 }

@@ -6,10 +6,11 @@ using namespace std;
 void RunTwoSum();
 void RunRomanToInteger();
 void RunPalindrome();
+void RunLongestCommonPrefix();
 
 int main()
 {
-	RunPalindrome();
+	RunLongestCommonPrefix();
 
 	return 0;
 }

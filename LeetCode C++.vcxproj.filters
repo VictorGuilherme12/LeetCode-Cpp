@@ -10,16 +10,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Easy\romantointeger.cpp">
+    <ClCompile Include="src\Easy\RomanToInteger.cpp">
       <Filter>Source Files\Easy</Filter>
     </ClCompile>
-    <ClCompile Include="src\Easy\twosum.cpp">
+    <ClCompile Include="src\Easy\TwoSum.cpp">
       <Filter>Source Files\Easy</Filter>
     </ClCompile>
     <ClCompile Include="src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\Easy\palindromenumbercpp.cpp">
+    <ClCompile Include="src\Easy\PalindromeNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Easy\LongestCommonPrefix.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

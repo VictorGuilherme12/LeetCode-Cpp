@@ -7,10 +7,11 @@ void RunTwoSum();
 void RunRomanToInteger();
 void RunPalindrome();
 void RunLongestCommonPrefix();
+void RunValidParentheses();
 
 int main()
 {
-	RunLongestCommonPrefix();
+	RunValidParentheses();
 
 	return 0;
 }

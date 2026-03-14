@@ -10,5 +10,8 @@ Release/
 x64/
 x86/
 
+# Executável
+main.exe
+
 # Outros temporários
 *.log

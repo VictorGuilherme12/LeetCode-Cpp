@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Easy\LongestCommonPrefix.cpp" />
+    <ClCompile Include="src\Easy\MergeTwoSortedList.cpp" />
     <ClCompile Include="src\Easy\PalindromeNumber.cpp" />
     <ClCompile Include="src\Easy\RomanToInteger.cpp" />
     <ClCompile Include="src\Easy\TwoSum.cpp" />

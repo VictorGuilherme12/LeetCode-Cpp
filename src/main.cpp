@@ -8,10 +8,11 @@ void RunRomanToInteger();
 void RunPalindrome();
 void RunLongestCommonPrefix();
 void RunValidParentheses();
+void RunMergeTwoList();
 
 int main()
 {
-	RunValidParentheses();
+	RunMergeTwoList();
 
 	return 0;
 }

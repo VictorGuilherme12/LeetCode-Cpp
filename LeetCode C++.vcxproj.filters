@@ -28,5 +28,8 @@
     <ClCompile Include="src\Easy\ValidParentheses.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="src\Easy\MergeTwoSortedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
